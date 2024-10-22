@@ -23,3 +23,13 @@ python3 phase1.py
 ```
 
 Vous trouverez le fichier `product_data.csv` dans votre dossier de travail.
+
+### Phase 2
+
+Comme précedemment, commencez le programme avec la commande suivante :
+
+```python
+python3 phase2.py
+```
+
+Vous trouverez le fichier `product_full_data.csv` dans votre dossier de travail.
