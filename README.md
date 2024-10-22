@@ -11,3 +11,15 @@ python3 -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
 ```
+
+## Exercices
+
+### Phase 1
+
+Demarrez le programme avec la commande suivante :
+
+```python
+python3 phase1.py
+```
+
+Vous trouverez le fichier `product_data.csv` dans votre dossier de travail.
