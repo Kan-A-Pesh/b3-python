@@ -18,7 +18,7 @@ pip install -r requirements.txt
 
 Demarrez le programme avec la commande suivante :
 
-```python
+```bash
 python3 phase1.py
 ```
 
@@ -28,8 +28,16 @@ Vous trouverez le fichier `product_data.csv` dans votre dossier de travail.
 
 Comme précedemment, commencez le programme avec la commande suivante :
 
-```python
+```bash
 python3 phase2.py
 ```
 
-Vous trouverez le fichier `product_full_data.csv` dans votre dossier de travail.
+Vous trouverez le fichier `product_data.csv` dans votre dossier de travail.
+
+### Phase 3
+
+```bash
+python3 phase3.py
+```
+
+Pour cette phase, les données seront comme précédement stockées dans le fichier `product_data.csv`, de plus vous trouvez les images des livres dans le dossier `images`.
