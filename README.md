@@ -41,3 +41,18 @@ python3 phase3.py
 ```
 
 Pour cette phase, les données seront comme précédement stockées dans le fichier `product_data.csv`, de plus vous trouvez les images des livres dans le dossier `images`.
+
+### Phase 4
+
+```bash
+python3 phase4.py
+```
+
+Pour cette phase, les données seront divisées par catégories et ainsi stockées dans les fichiers `product_data_[category_title].csv` pour chaque catégorie.\
+Les images des livres seront stockées dans le dossier `images/[category_title]`.
+
+> NOTE: L'execution de cette phase peut générer beaucoup de fichiers, pour nettoyer votre espace de travail, vous pouvez utiliser la commande suivante :
+
+```bash
+python3 clear.py
+```
