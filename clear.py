@@ -15,4 +15,8 @@ if pathlib.Path("images").exists():
 for file in pathlib.Path().glob("*.csv"):
     file.unlink()
 
+# Remove all .pdf files
+for file in pathlib.Path().glob("*.pdf"):
+    file.unlink()
+
 print("All files removed successfully.")
